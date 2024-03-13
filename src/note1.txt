@@ -1,3 +1,4 @@
+ HEAD
 both changes 33
-wwwwwwwwwwwwwwwwwww master change
-feature1 branch note update
+ master change
+ 
