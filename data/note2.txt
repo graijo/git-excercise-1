@@ -1,7 +1,2 @@
-xe 123
- 
+master2 commit
 
-1234
- 
-merge commits from master 3-2nd change -3rd change
- 
