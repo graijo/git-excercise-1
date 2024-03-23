@@ -1,11 +1,3 @@
-xe 123
- 
-
-1234
-
- 
-merge commits from master 3-2nd change -3rd change
-both added in rebase
-merge commits from master 3-2nd change-reset back
+master2_2 change
 
 
